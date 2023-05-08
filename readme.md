@@ -1,11 +1,14 @@
 https://anapisarek.github.io/goit-markup-hw-01/
 
-Task 01
+# Task 01
+
 1. Create a repository goit-markup-hw-01.
 2. Make HTML markup for the homework #1 page layout, without CSS styling.
 3. Set up GitHub Pages and add a link to the live page in the header of the GitHub repository.
 
-Criteria for work acceptance by the tutor
+# Criteria for work acceptance by the tutor
+
+Project
 
 «A1» The main HTML file is called index.html.
 
